@@ -16,9 +16,9 @@
     </dependencies>
   </metadata>
   <files>
-	<file src="..\src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Wrapper.Premium.dll" target="lib\net40" /> 
-	<file src="..\src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Wrapper.Premium.pdb" target="lib\net40" /> 
-	<file src="..\src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Schema.Premium.dll" target="lib\net40" /> 
-	<file src="..\src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Schema.Premium.pdb" target="lib\net40" /> 
+	<file src="src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Wrapper.Premium.dll" target="lib\net40" /> 
+	<file src="src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Wrapper.Premium.pdb" target="lib\net40" /> 
+	<file src="src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Schema.Premium.dll" target="lib\net40" /> 
+	<file src="src\SevenDigital.Api.Wrapper.Premium\bin\Release\SevenDigital.Api.Schema.Premium.pdb" target="lib\net40" /> 
   </files>
 </package>
